@@ -36,7 +36,7 @@ ul {
 }
 
 .header-menu-list {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: var(--NAVY-BLUE, #2e2f42);
         font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
@@ -250,8 +250,8 @@ ul {
         font-family: Raleway, sans-serif;
         font-size: 18px;
         font-weight: 700;
-        line-height: 1.17;
-        letter-spacing: 0.03em;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
         text-transform: uppercase;
 }
 
