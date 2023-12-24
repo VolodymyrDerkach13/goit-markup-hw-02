@@ -225,7 +225,8 @@ ul {
     background-color: #2E2F42;
 }
 
-.footer-logo {color: var(--IRIS, #4D5AE5);
+.footer-logo {
+    color: var(--IRIS, #4D5AE5);
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -235,7 +236,7 @@ ul {
 }
 
 .footer-logo-color {
-color: var(--CLOUD, #F4F4FD);
+    color: var(--NAVY-BLUE, #F4F4FD);
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
