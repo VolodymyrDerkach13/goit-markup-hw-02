@@ -56,6 +56,10 @@ ul {
         letter-spacing: 0.02em;
 }
 
+.address {
+    font-style: normal;
+}
+
 .address-link {
     color: var(--SLATE, #434455);
         font-size: 16px;
@@ -108,6 +112,14 @@ ul {
         background-color: #4D5AE5;
 }
 
+.hero-btn:hover {
+    background-color: #404BBF;
+}
+
+.hero-btn:focus {
+    background-color: #404BBF;
+}
+
 /* -------hero----------- */
 
 /* -------feature----------- */
@@ -140,7 +152,9 @@ ul {
 
 /* -------Our Team----------- */
 
-.team {}
+.team {
+    background-color: #F4F4FD;
+}
 
 .team-title {
     color: var(--NAVY-BLUE, #2E2F42);
@@ -154,7 +168,9 @@ ul {
 
 .team-list {}
 
-.team-item {}
+.team-item {
+    background-color: #FFFFFF;
+}
 
 .team-img {}
 
@@ -223,23 +239,23 @@ ul {
 }
 
 .footer-logo {
-    color: var(--CLOUD, #F4F4FD);
+    color: var(--IRIS, #4D5AE5);
         font-family: Raleway;
         font-size: 18px;
         font-weight: 700;
-        line-height: 1.16;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
 }
 
 .footer-logo-color {
-    color: var(--IRIS, #4D5AE5);
-        font-family: Raleway;
-        font-size: 18px;
-        font-weight: 700;
-        line-height: 1.16;
-        letter-spacing: 0.03em;
-        text-transform: uppercase;
+color: var(--CLOUD, #F4F4FD);
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 
 .footer-text {
